@@ -1,5 +1,10 @@
 # Dynamic Scene Loading Using Addressables and Cloud Content Delivery in Unity
 
+## Videos
+[Addressables and Cloud Content Delivery](https://youtu.be/_djihIEO4PQ?si=XMFGhIg0Dml_DWaM)
+
+[Load Scenes Dynamically](https://youtu.be/INtLsNcqGP0)
+
 ## What's in this repository
 This repository contains the source code I used in the tutorial. However, as the project relies on several 3rd party assets, the project will not build as-is. I provide it so you can pull the relevant source files (e.g. Dynamic Scene Loader.cs, MapLevelDefinitionSO, etc.)
 
