@@ -2,6 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/.idea/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -9,6 +10,16 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/Blink/
+/[Aa]ssets/DungeonModularPack/
+/[Aa]ssets/InfinityPBR - Magic Pig Games/
+/[Aa]ssets/Multistory Dungeons/
+/[Aa]ssets/Multistory Dungeons 2/
+/[Aa]ssets/SimpleSpinner/
+/[Aa]ssets/StarterAssets/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/TransitionsPlus/
+/CCDBuildData/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -71,3 +82,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Metadata for 3rd party asset folders
+Blink.meta
+DungeonModularPack.meta
+InfinityPBR - Magic Pig Games.meta
+Multistory Dungeons.meta
+Multistory Dungeons 2.meta
+SimpleSpinner.meta
+StarterAssets.meta
+TextMesh Pro.meta
+TransitionsPlus.meta

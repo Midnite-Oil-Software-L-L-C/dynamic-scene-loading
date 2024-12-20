@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 8fa422a2859706d40a04ff2a97cff621
+  m_SerializeEntries:
+  - m_GUID: 094fee2592364db8a5b15e0dfe3f452c
+    m_Address: Assets/Multistory Dungeons 2/Scenes/First-Person Demo 01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - First person
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc10df96022b19841ac18003dab61704
+    m_Address: Assets/DungeonModularPack/Scenes/DemoScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Demo scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0f16b494c6a4cf19735ef524bafed4f
+    m_Address: Assets/Multistory Dungeons 2/Scenes/Top-Down Demo 01.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Top down
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4c32529d1d0f11542984b7437fda57c7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 40bff274479e30a499ef183e64c097d5, type: 2}
+    - {fileID: 11400000, guid: c2280b1c30ae77043911fd352c24f498, type: 2}
