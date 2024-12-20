@@ -11,7 +11,7 @@ This repository contains the source code I used in the tutorial. However, as the
 ## Third Party Assets used in the tutorial
 [Dungeon Modular Pack](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-modular-pack-295430)
 
-[Multistory Dungeons](https://assetstore.unity.com/packages/3d/environments/dungeons/multistory-dungeons-33955&aid=1100lzsEu)
+[Multistory Dungeons](https://prf.hn/click/camref:1100lzsEu/destination:https://assetstore.unity.com/packages/3d/environments/dungeons/multistory-dungeons-33955)
 
 [Transitions Plus](https://prf.hn/click/camref:1100lzsEu/destination:https://assetstore.unity.com/packages/tools/camera/transitions-plus-266067)
 
